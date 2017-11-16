@@ -1,0 +1,1849 @@
+Parsing file:  f0020-01-s.cnf
+Solved. Variable assignment:
+[1, -2, 3, 4, -5, -6, 7, -8, -9, -10, 11, 12, -13, -14, 15, 16, -17, -18, 19, 20]
+('Execution time: ', 0.5675780773162842, ' seconds.')
+Solved. Variable assignment:
+[1, -2, 3, 4, -5, -6, 7, -8, -9, -10, -11, 12, -13, -14, 15, 16, -17, -18, 19, 20]
+('Execution time: ', 0.5773839950561523, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, 4, -5, -6, 7, -8, -9, -10, -11, 12, -13, -14, 15, 16, -17, -18, 19, 20]
+('Execution time: ', 0.30973100662231445, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, 4, -5, -6, 7, -8, -9, -10, 11, -12, 13, -14, 15, 16, -17, -18, -19, -20]
+('Execution time: ', 0.24628901481628418, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, 4, -5, -6, 7, -8, -9, -10, 11, -12, 13, -14, 15, 16, -17, -18, 19, -20]
+('Execution time: ', 1.1561079025268555, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, 4, -5, -6, 7, -8, -9, -10, -11, 12, -13, -14, 15, 16, -17, -18, 19, 20]
+('Execution time: ', 0.9857940673828125, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, 4, -5, -6, 7, -8, -9, -10, -11, 12, -13, -14, 15, 16, -17, -18, 19, 20]
+('Execution time: ', 0.5768089294433594, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, 4, -5, -6, 7, -8, -9, -10, 11, -12, 13, -14, 15, 16, -17, -18, 19, -20]
+('Execution time: ', 0.11134099960327148, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, 4, -5, -6, 7, -8, -9, -10, 11, -12, 13, -14, 15, 16, -17, -18, 19, -20]
+('Execution time: ', 0.8134307861328125, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, 4, -5, -6, 7, -8, -9, -10, 11, 12, -13, -14, 15, 16, -17, -18, 19, 20]
+('Execution time: ', 0.3041951656341553, ' seconds.')
+Average time for  f0020-01-s.cnf :  0.564865994453 seconds.
+Average flips for  f0020-01-s.cnf :  945 flips.
+
+
+Parsing file:  f0020-01-u.cnf
+Max number of flips reached, no solution found.
+('Execution time: ', 5.792227029800415, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.81596302986145, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.764001131057739, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.780098915100098, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.737411022186279, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.880370855331421, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.826192855834961, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.771595001220703, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.72899317741394, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.946228981018066, ' seconds.')
+Average time for  f0020-01-u.cnf :  5.80430819988 seconds.
+Average flips for  f0020-01-u.cnf :  10000 flips.
+
+
+Parsing file:  f0020-02-s.cnf
+Solved. Variable assignment:
+[1, 2, -3, 4, 5, 6, 7, -8, 9, -10, -11, 12, -13, 14, 15, -16, 17, 18, 19, 20]
+('Execution time: ', 0.0597078800201416, ' seconds.')
+Solved. Variable assignment:
+[1, 2, 3, 4, 5, 6, 7, 8, 9, -10, -11, -12, -13, 14, -15, -16, 17, 18, 19, -20]
+('Execution time: ', 0.05915999412536621, ' seconds.')
+Solved. Variable assignment:
+[1, -2, 3, 4, 5, 6, 7, -8, 9, -10, -11, -12, -13, -14, -15, -16, 17, 18, 19, -20]
+('Execution time: ', 0.01004791259765625, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, -4, 5, 6, 7, 8, 9, -10, -11, 12, -13, -14, 15, -16, -17, -18, 19, 20]
+('Execution time: ', 0.3379039764404297, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, -4, 5, 6, 7, 8, 9, -10, -11, 12, -13, 14, 15, -16, -17, -18, 19, 20]
+('Execution time: ', 0.029640913009643555, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, -4, 5, 6, 7, 8, 9, -10, -11, 12, -13, -14, 15, -16, -17, -18, 19, 20]
+('Execution time: ', 0.05913591384887695, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, -4, 5, 6, 7, -8, 9, -10, -11, 12, -13, 14, 15, -16, 17, 18, 19, 20]
+('Execution time: ', 0.026670217514038086, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, 4, 5, 6, 7, 8, 9, -10, -11, -12, -13, -14, -15, -16, -17, 18, 19, -20]
+('Execution time: ', 0.07775712013244629, ' seconds.')
+Solved. Variable assignment:
+[-1, 2, -3, -4, 5, -6, 7, 8, 9, -10, -11, -12, 13, 14, -15, -16, -17, 18, 19, -20]
+('Execution time: ', 0.06531715393066406, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, 4, 5, 6, 7, -8, 9, -10, -11, 12, -13, -14, 15, -16, 17, 18, 19, 20]
+('Execution time: ', 0.10084390640258789, ' seconds.')
+Average time for  f0020-02-s.cnf :  0.0826184988022 seconds.
+Average flips for  f0020-02-s.cnf :  145 flips.
+
+
+Parsing file:  f0020-02-u.cnf
+Max number of flips reached, no solution found.
+('Execution time: ', 5.920892953872681, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.934613943099976, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.991550922393799, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 6.015344142913818, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.918797016143799, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.939913034439087, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.873259782791138, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.913945913314819, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.949656009674072, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.898984909057617, ' seconds.')
+Average time for  f0020-02-u.cnf :  5.93569586277 seconds.
+Average flips for  f0020-02-u.cnf :  10000 flips.
+
+
+Parsing file:  f0020-03-s.cnf
+Solved. Variable assignment:
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15, 16, -17, -18, 19, -20]
+('Execution time: ', 0.3235819339752197, ' seconds.')
+Solved. Variable assignment:
+[-1, 2, 3, -4, 5, 6, -7, -8, -9, 10, 11, 12, -13, -14, -15, 16, -17, -18, -19, 20]
+('Execution time: ', 0.3872659206390381, ' seconds.')
+Solved. Variable assignment:
+[-1, 2, 3, -4, -5, 6, -7, 8, 9, 10, 11, -12, -13, -14, -15, 16, -17, -18, -19, 20]
+('Execution time: ', 0.40969395637512207, ' seconds.')
+Solved. Variable assignment:
+[-1, 2, 3, -4, 5, 6, 7, -8, 9, 10, 11, 12, 13, -14, -15, 16, -17, -18, 19, -20]
+('Execution time: ', 0.8158478736877441, ' seconds.')
+Solved. Variable assignment:
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15, 16, -17, -18, 19, -20]
+('Execution time: ', 0.11510586738586426, ' seconds.')
+Solved. Variable assignment:
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15, 16, -17, -18, 19, -20]
+('Execution time: ', 0.24446702003479004, ' seconds.')
+Solved. Variable assignment:
+[-1, 2, 3, -4, 5, 6, -7, -8, -9, 10, 11, 12, -13, -14, -15, 16, -17, -18, -19, 20]
+('Execution time: ', 0.19371509552001953, ' seconds.')
+Solved. Variable assignment:
+[-1, 2, 3, -4, 5, 6, 7, -8, 9, 10, 11, 12, 13, -14, -15, 16, -17, -18, 19, -20]
+('Execution time: ', 0.4331648349761963, ' seconds.')
+Solved. Variable assignment:
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, -12, -13, -14, -15, 16, -17, -18, 19, -20]
+('Execution time: ', 0.18725895881652832, ' seconds.')
+Solved. Variable assignment:
+[-1, 2, 3, -4, -5, 6, 7, -8, 9, 10, 11, 12, -13, -14, -15, 16, -17, -18, -19, -20]
+('Execution time: ', 0.5564980506896973, ' seconds.')
+Average time for  f0020-03-s.cnf :  0.36665995121 seconds.
+Average flips for  f0020-03-s.cnf :  619 flips.
+
+
+Parsing file:  f0020-03-u.cnf
+Max number of flips reached, no solution found.
+('Execution time: ', 5.970350980758667, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.929594039916992, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.9319069385528564, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.794936895370483, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.910146951675415, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.828186988830566, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.871464967727661, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.852237939834595, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.812190055847168, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.784139156341553, ' seconds.')
+Average time for  f0020-03-u.cnf :  5.86851549149 seconds.
+Average flips for  f0020-03-u.cnf :  10000 flips.
+
+
+Parsing file:  f0020-04-s.cnf
+Solved. Variable assignment:
+[1, -2, -3, 4, -5, -6, -7, -8, -9, 10, 11, -12, -13, -14, -15, -16, -17, 18, 19, 20]
+('Execution time: ', 2.209460973739624, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, -4, -5, -6, -7, -8, 9, 10, -11, -12, -13, -14, -15, -16, -17, 18, 19, -20]
+('Execution time: ', 0.19801807403564453, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, 4, -5, -6, -7, -8, -9, 10, 11, -12, -13, -14, -15, -16, -17, 18, 19, 20]
+('Execution time: ', 0.04456806182861328, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, 4, -5, -6, -7, -8, -9, 10, 11, -12, -13, -14, -15, -16, -17, 18, 19, 20]
+('Execution time: ', 0.16805601119995117, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, -4, -5, -6, -7, -8, 9, 10, 11, -12, -13, -14, -15, -16, -17, 18, 19, 20]
+('Execution time: ', 0.18752408027648926, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, -4, -5, -6, -7, -8, 9, 10, -11, -12, -13, -14, -15, -16, -17, 18, 19, -20]
+('Execution time: ', 0.7743229866027832, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, -4, -5, -6, -7, -8, 9, 10, -11, -12, -13, -14, -15, -16, -17, 18, 19, -20]
+('Execution time: ', 0.17448806762695312, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, -4, -5, -6, -7, -8, 9, 10, 11, -12, -13, -14, -15, -16, -17, 18, 19, 20]
+('Execution time: ', 0.8844408988952637, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, -4, -5, -6, -7, -8, 9, 10, 11, -12, -13, -14, -15, -16, -17, 18, 19, 20]
+('Execution time: ', 0.03589200973510742, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, 4, -5, -6, -7, -8, -9, 10, 11, -12, -13, -14, -15, -16, -17, 18, 19, 20]
+('Execution time: ', 0.10122394561767578, ' seconds.')
+Average time for  f0020-04-s.cnf :  0.477799510956 seconds.
+Average flips for  f0020-04-s.cnf :  812 flips.
+
+
+Parsing file:  f0020-04-u.cnf
+Max number of flips reached, no solution found.
+('Execution time: ', 5.910025119781494, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.9085259437561035, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 6.002480983734131, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.897218942642212, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.90510892868042, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 6.019706964492798, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.864634990692139, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.96846604347229, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.880767107009888, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.961527109146118, ' seconds.')
+Average time for  f0020-04-u.cnf :  5.93184621334 seconds.
+Average flips for  f0020-04-u.cnf :  10000 flips.
+
+
+Parsing file:  f0020-05-s.cnf
+Solved. Variable assignment:
+[1, 2, 3, -4, -5, -6, -7, -8, 9, -10, 11, -12, -13, 14, 15, 16, 17, 18, 19, 20]
+('Execution time: ', 0.5337440967559814, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, -4, -5, -6, -7, -8, 9, 10, 11, -12, -13, 14, -15, 16, 17, 18, -19, 20]
+('Execution time: ', 0.38153505325317383, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, -4, -5, -6, -7, -8, 9, -10, 11, -12, -13, 14, 15, 16, 17, 18, 19, 20]
+('Execution time: ', 0.040914058685302734, ' seconds.')
+Solved. Variable assignment:
+[1, 2, 3, -4, -5, -6, -7, -8, -9, -10, 11, -12, -13, 14, -15, -16, 17, 18, -19, 20]
+('Execution time: ', 1.7108469009399414, ' seconds.')
+Solved. Variable assignment:
+[1, 2, 3, -4, -5, -6, -7, -8, -9, -10, 11, -12, -13, 14, -15, -16, 17, 18, -19, 20]
+('Execution time: ', 0.18077898025512695, ' seconds.')
+Solved. Variable assignment:
+[1, 2, 3, -4, -5, -6, -7, -8, 9, -10, 11, -12, -13, 14, -15, -16, 17, 18, -19, 20]
+('Execution time: ', 0.7420041561126709, ' seconds.')
+Solved. Variable assignment:
+[1, 2, 3, -4, -5, -6, -7, -8, 9, -10, 11, -12, -13, 14, -15, 16, 17, 18, 19, 20]
+('Execution time: ', 2.9944369792938232, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, -4, -5, -6, -7, -8, -9, -10, 11, -12, -13, 14, 15, 16, 17, 18, -19, 20]
+('Execution time: ', 0.3278810977935791, ' seconds.')
+Solved. Variable assignment:
+[1, 2, 3, -4, -5, -6, -7, -8, 9, -10, 11, -12, -13, 14, -15, 16, 17, 18, 19, 20]
+('Execution time: ', 0.6423091888427734, ' seconds.')
+Solved. Variable assignment:
+[-1, -2, -3, -4, -5, 6, -7, -8, -9, 10, 11, -12, -13, 14, -15, -16, -17, -18, -19, 20]
+('Execution time: ', 1.162471055984497, ' seconds.')
+Average time for  f0020-05-s.cnf :  0.871692156792 seconds.
+Average flips for  f0020-05-s.cnf :  1480 flips.
+
+
+Parsing file:  f0020-05-u.cnf
+Max number of flips reached, no solution found.
+('Execution time: ', 5.78453803062439, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.881181955337524, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.744927883148193, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.876162052154541, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.752831935882568, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.978260040283203, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.8316051959991455, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.82582688331604, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.825332880020142, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.8788769245147705, ' seconds.')
+Average time for  f0020-05-u.cnf :  5.83795437813 seconds.
+Average flips for  f0020-05-u.cnf :  10000 flips.
+
+
+Parsing file:  f0020-06-s.cnf
+Solved. Variable assignment:
+[1, 2, -3, -4, -5, 6, -7, 8, -9, 10, 11, -12, -13, -14, 15, 16, 17, 18, -19, 20]
+('Execution time: ', 1.3747968673706055, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, -4, -5, 6, -7, 8, -9, 10, 11, -12, -13, -14, 15, 16, 17, 18, -19, 20]
+('Execution time: ', 0.25106215476989746, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, -4, -5, 6, -7, 8, -9, 10, 11, -12, -13, -14, 15, 16, 17, 18, -19, 20]
+('Execution time: ', 0.27993011474609375, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, -4, -5, 6, -7, 8, -9, 10, 11, -12, -13, -14, 15, 16, 17, 18, -19, 20]
+('Execution time: ', 1.1883049011230469, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, -4, -5, 6, -7, 8, -9, 10, 11, -12, -13, -14, 15, 16, 17, 18, -19, 20]
+('Execution time: ', 0.5233609676361084, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, -4, -5, 6, -7, 8, -9, 10, 11, -12, -13, -14, 15, 16, 17, 18, -19, 20]
+('Execution time: ', 2.0795528888702393, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, -4, -5, 6, -7, 8, -9, 10, 11, -12, -13, -14, 15, 16, 17, 18, -19, 20]
+('Execution time: ', 0.7727270126342773, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, -4, -5, 6, -7, 8, -9, 10, 11, -12, -13, -14, 15, 16, 17, 18, -19, 20]
+('Execution time: ', 0.7385458946228027, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, -4, -5, 6, 7, 8, -9, 10, 11, -12, -13, -14, 15, 16, 17, 18, -19, 20]
+('Execution time: ', 0.19045805931091309, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, -4, -5, 6, -7, 8, -9, 10, 11, -12, -13, -14, 15, 16, 17, 18, -19, 20]
+('Execution time: ', 0.10421895980834961, ' seconds.')
+Average time for  f0020-06-s.cnf :  0.750295782089 seconds.
+Average flips for  f0020-06-s.cnf :  1265 flips.
+
+
+Parsing file:  f0020-06-u.cnf
+Max number of flips reached, no solution found.
+('Execution time: ', 5.903675079345703, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.897380113601685, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.888996124267578, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.870906114578247, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.732789993286133, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.78502893447876, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.803056955337524, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.837266206741333, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.783405065536499, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.897682189941406, ' seconds.')
+Average time for  f0020-06-u.cnf :  5.84001867771 seconds.
+Average flips for  f0020-06-u.cnf :  10000 flips.
+
+
+Parsing file:  f0020-07-s.cnf
+Solved. Variable assignment:
+[-1, 2, 3, 4, -5, 6, -7, 8, 9, -10, 11, -12, -13, -14, 15, -16, -17, -18, -19, -20]
+('Execution time: ', 0.09837102890014648, ' seconds.')
+Solved. Variable assignment:
+[1, 2, 3, 4, -5, 6, -7, 8, 9, -10, 11, -12, -13, -14, 15, -16, -17, -18, 19, -20]
+('Execution time: ', 0.05843710899353027, ' seconds.')
+Solved. Variable assignment:
+[-1, -2, 3, -4, 5, -6, -7, 8, 9, -10, 11, -12, -13, -14, 15, -16, -17, -18, -19, -20]
+('Execution time: ', 0.044927120208740234, ' seconds.')
+Solved. Variable assignment:
+[-1, -2, 3, -4, 5, 6, -7, 8, 9, -10, 11, 12, -13, -14, 15, -16, -17, 18, 19, -20]
+('Execution time: ', 0.06173110008239746, ' seconds.')
+Solved. Variable assignment:
+[-1, 2, 3, -4, 5, -6, -7, 8, 9, 10, 11, -12, -13, -14, 15, -16, -17, -18, -19, 20]
+('Execution time: ', 0.05041313171386719, ' seconds.')
+Solved. Variable assignment:
+[-1, 2, 3, -4, -5, -6, -7, -8, 9, -10, 11, -12, -13, -14, 15, -16, -17, -18, -19, -20]
+('Execution time: ', 0.06729006767272949, ' seconds.')
+Solved. Variable assignment:
+[-1, -2, 3, -4, 5, -6, -7, 8, 9, -10, 11, -12, -13, -14, 15, -16, -17, -18, -19, -20]
+('Execution time: ', 0.09366106986999512, ' seconds.')
+Solved. Variable assignment:
+[-1, -2, 3, -4, 5, -6, 7, 8, 9, -10, -11, -12, 13, -14, -15, -16, -17, -18, -19, -20]
+('Execution time: ', 0.16713905334472656, ' seconds.')
+Solved. Variable assignment:
+[-1, -2, 3, -4, 5, -6, -7, 8, 9, -10, 11, -12, -13, -14, 15, -16, -17, -18, -19, 20]
+('Execution time: ', 0.03833889961242676, ' seconds.')
+Solved. Variable assignment:
+[-1, 2, 3, 4, 5, 6, -7, 8, 9, -10, 11, 12, -13, -14, 15, -16, -17, 18, 19, -20]
+('Execution time: ', 0.07800102233886719, ' seconds.')
+Average time for  f0020-07-s.cnf :  0.0758309602737 seconds.
+Average flips for  f0020-07-s.cnf :  126 flips.
+
+
+Parsing file:  f0020-07-u.cnf
+Max number of flips reached, no solution found.
+('Execution time: ', 5.812391042709351, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.816915035247803, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.76092004776001, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.923083066940308, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.921485900878906, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.809697151184082, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.848956108093262, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.940401077270508, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.780124187469482, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.751860857009888, ' seconds.')
+Average time for  f0020-07-u.cnf :  5.83658344746 seconds.
+Average flips for  f0020-07-u.cnf :  10000 flips.
+
+
+Parsing file:  f0020-08-s.cnf
+Solved. Variable assignment:
+[1, 2, -3, 4, -5, -6, -7, 8, 9, 10, 11, 12, -13, -14, -15, 16, 17, -18, -19, 20]
+('Execution time: ', 0.2987689971923828, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, 4, -5, -6, -7, 8, 9, 10, -11, 12, -13, -14, -15, 16, -17, -18, -19, 20]
+('Execution time: ', 0.1298069953918457, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, 4, -5, -6, -7, 8, 9, 10, -11, 12, 13, -14, -15, 16, 17, -18, -19, 20]
+('Execution time: ', 0.8651719093322754, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, 4, -5, -6, -7, 8, 9, 10, 11, 12, 13, -14, -15, 16, 17, -18, -19, 20]
+('Execution time: ', 0.14913511276245117, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, 4, -5, -6, -7, 8, 9, 10, -11, 12, 13, -14, -15, 16, -17, -18, -19, 20]
+('Execution time: ', 0.031229019165039062, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, 4, -5, -6, -7, 8, 9, 10, -11, 12, 13, 14, -15, 16, -17, -18, -19, 20]
+('Execution time: ', 0.5111861228942871, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, 4, -5, -6, -7, 8, 9, 10, 11, 12, 13, -14, -15, 16, 17, -18, -19, 20]
+('Execution time: ', 0.4589419364929199, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, 4, -5, -6, -7, 8, 9, 10, 11, 12, 13, 14, -15, 16, 17, -18, -19, 20]
+('Execution time: ', 0.1698908805847168, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, 4, -5, -6, -7, 8, 9, 10, -11, 12, 13, 14, -15, 16, -17, -18, -19, 20]
+('Execution time: ', 0.46062803268432617, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, 4, -5, -6, -7, 8, 9, 10, -11, 12, -13, -14, -15, 16, -17, -18, -19, 20]
+('Execution time: ', 0.07024908065795898, ' seconds.')
+Average time for  f0020-08-s.cnf :  0.314500808716 seconds.
+Average flips for  f0020-08-s.cnf :  533 flips.
+
+
+Parsing file:  f0020-08-u.cnf
+Max number of flips reached, no solution found.
+('Execution time: ', 5.872983932495117, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.911983966827393, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 6.018334150314331, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.782610893249512, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.821542024612427, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.938874959945679, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.825126886367798, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.890822172164917, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 5.927151918411255, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 6.03018593788147, ' seconds.')
+Average time for  f0020-08-u.cnf :  5.90196168423 seconds.
+Average flips for  f0020-08-u.cnf :  10000 flips.
+
+
+Parsing file:  f0040-01-s.cnf
+Solved. Variable assignment:
+[-1, -2, 3, -4, 5, -6, 7, 8, 9, 10, -11, 12, -13, -14, 15, -16, -17, -18, 19, -20, 21, -22, 23, -24, 25, 26, 27, 28, -29, 30, 31, 32, -33, 34, -35, 36, -37, 38, -39, -40]
+('Execution time: ', 7.750592947006226, ' seconds.')
+Solved. Variable assignment:
+[-1, -2, -3, -4, -5, -6, 7, 8, 9, 10, -11, 12, 13, 14, -15, 16, -17, -18, 19, -20, -21, 22, 23, 24, 25, 26, 27, -28, -29, 30, 31, 32, -33, 34, -35, 36, -37, -38, 39, 40]
+('Execution time: ', 0.6681859493255615, ' seconds.')
+Solved. Variable assignment:
+[-1, -2, 3, -4, -5, -6, 7, 8, 9, 10, -11, 12, 13, 14, -15, -16, -17, -18, 19, -20, 21, 22, 23, -24, 25, -26, 27, -28, -29, 30, 31, -32, -33, -34, -35, 36, -37, -38, -39, 40]
+('Execution time: ', 8.126105070114136, ' seconds.')
+Solved. Variable assignment:
+[-1, -2, 3, 4, 5, -6, 7, 8, 9, 10, 11, -12, 13, -14, 15, 16, -17, -18, 19, -20, -21, 22, 23, 24, 25, -26, 27, 28, 29, -30, 31, -32, -33, -34, -35, 36, 37, 38, 39, -40]
+('Execution time: ', 2.189426898956299, ' seconds.')
+Solved. Variable assignment:
+[-1, -2, 3, 4, 5, -6, 7, 8, 9, 10, -11, 12, -13, -14, 15, 16, -17, -18, 19, -20, -21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, -33, 34, -35, 36, 37, 38, -39, -40]
+('Execution time: ', 6.611583948135376, ' seconds.')
+Solved. Variable assignment:
+[-1, -2, 3, 4, 5, -6, 7, 8, 9, 10, -11, 12, -13, -14, 15, 16, -17, -18, 19, -20, -21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, -33, 34, -35, 36, 37, 38, 39, -40]
+('Execution time: ', 2.0270118713378906, ' seconds.')
+Solved. Variable assignment:
+[-1, -2, 3, 4, 5, -6, 7, 8, 9, 10, -11, 12, -13, -14, 15, 16, -17, -18, 19, -20, -21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, -33, 34, -35, 36, 37, 38, 39, -40]
+('Execution time: ', 2.0722789764404297, ' seconds.')
+Solved. Variable assignment:
+[-1, -2, -3, -4, -5, -6, 7, 8, 9, 10, -11, 12, -13, 14, -15, -16, -17, -18, 19, -20, 21, 22, 23, -24, 25, 26, 27, -28, -29, 30, 31, 32, -33, 34, -35, 36, -37, -38, -39, 40]
+('Execution time: ', 0.5104920864105225, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.620690822601318, ' seconds.')
+Solved. Variable assignment:
+[-1, -2, 3, -4, -5, -6, 7, 8, 9, 10, 11, 12, 13, 14, -15, 16, -17, -18, 19, -20, -21, 22, 23, 24, 25, 26, 27, -28, -29, 30, 31, 32, 33, -34, -35, 36, -37, -38, 39, -40]
+('Execution time: ', 6.981822967529297, ' seconds.')
+Average time for  f0040-01-s.cnf :  4.75581915379 seconds.
+Average flips for  f0040-01-s.cnf :  4466 flips.
+
+
+Parsing file:  f0040-01-u.cnf
+Max number of flips reached, no solution found.
+('Execution time: ', 10.880141019821167, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.88817811012268, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.963023900985718, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.938711881637573, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 11.02442193031311, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.986943006515503, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.850533962249756, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.728009939193726, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.85632586479187, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 11.005199909210205, ' seconds.')
+Average time for  f0040-01-u.cnf :  10.9121489525 seconds.
+Average flips for  f0040-01-u.cnf :  10000 flips.
+
+
+Parsing file:  f0040-02-s.cnf
+Max number of flips reached, no solution found.
+('Execution time: ', 10.76459288597107, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, -4, 5, -6, 7, 8, 9, 10, -11, -12, 13, 14, -15, 16, -17, -18, 19, 20, -21, -22, 23, -24, 25, -26, -27, -28, 29, 30, 31, -32, -33, 34, -35, 36, -37, 38, -39, 40]
+('Execution time: ', 4.772495985031128, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.518322944641113, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, -4, 5, -6, 7, 8, 9, 10, 11, 12, 13, 14, -15, 16, 17, -18, 19, 20, -21, -22, 23, -24, 25, 26, -27, -28, 29, 30, 31, -32, -33, 34, -35, 36, -37, 38, -39, 40]
+('Execution time: ', 0.32140111923217773, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.675741910934448, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.804505109786987, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.769832134246826, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.909373044967651, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, -4, 5, -6, 7, 8, 9, 10, -11, -12, 13, 14, -15, 16, -17, -18, 19, 20, -21, -22, 23, -24, 25, -26, -27, -28, 29, 30, 31, -32, 33, -34, -35, 36, -37, 38, -39, 40]
+('Execution time: ', 3.537606954574585, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.73766016960144, ' seconds.')
+Average time for  f0040-02-s.cnf :  8.3811532259 seconds.
+Average flips for  f0040-02-s.cnf :  7788 flips.
+
+
+Parsing file:  f0040-02-u.cnf
+Max number of flips reached, no solution found.
+('Execution time: ', 10.771241903305054, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.751935958862305, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.789245128631592, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.994109869003296, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.71686601638794, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.809106826782227, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.62087607383728, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.949096202850342, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.818964004516602, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.929239988327026, ' seconds.')
+Average time for  f0040-02-u.cnf :  10.8150681973 seconds.
+Average flips for  f0040-02-u.cnf :  10000 flips.
+
+
+Parsing file:  f0040-03-s.cnf
+Max number of flips reached, no solution found.
+('Execution time: ', 10.68976616859436, ' seconds.')
+Solved. Variable assignment:
+[1, -2, 3, 4, 5, -6, -7, 8, 9, -10, -11, -12, 13, 14, -15, -16, 17, -18, 19, -20, 21, -22, -23, 24, -25, 26, -27, 28, 29, 30, -31, -32, 33, 34, -35, -36, 37, 38, 39, 40]
+('Execution time: ', 0.8163018226623535, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.90477705001831, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, 4, 5, -6, -7, 8, 9, -10, -11, -12, 13, 14, -15, -16, 17, -18, 19, -20, 21, 22, -23, 24, -25, 26, -27, 28, 29, 30, -31, -32, 33, 34, -35, -36, 37, 38, 39, 40]
+('Execution time: ', 1.3059310913085938, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, 4, 5, -6, -7, 8, 9, -10, -11, -12, 13, 14, -15, -16, 17, -18, 19, -20, 21, -22, -23, 24, -25, 26, -27, 28, 29, 30, -31, -32, 33, -34, 35, -36, 37, -38, 39, 40]
+('Execution time: ', 1.2882399559020996, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, 4, 5, -6, -7, 8, 9, -10, -11, -12, 13, 14, -15, -16, 17, -18, 19, -20, 21, -22, -23, 24, -25, 26, -27, 28, 29, 30, -31, -32, 33, -34, 35, -36, 37, 38, 39, 40]
+('Execution time: ', 9.731823921203613, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.628061056137085, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.474889993667603, ' seconds.')
+Solved. Variable assignment:
+[-1, -2, 3, 4, 5, -6, -7, 8, 9, -10, -11, -12, 13, -14, -15, -16, 17, -18, 19, -20, 21, -22, -23, 24, -25, 26, 27, 28, 29, 30, -31, 32, -33, 34, -35, -36, 37, 38, -39, 40]
+('Execution time: ', 2.1802968978881836, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.612136840820312, ' seconds.')
+Average time for  f0040-03-s.cnf :  6.86322247982 seconds.
+Average flips for  f0040-03-s.cnf :  6408 flips.
+
+
+Parsing file:  f0040-03-u.cnf
+Max number of flips reached, no solution found.
+('Execution time: ', 10.920013904571533, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.863579034805298, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.931309938430786, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.888872146606445, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.63957691192627, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.713098049163818, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.858919858932495, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.79312801361084, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.84517788887024, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.818005084991455, ' seconds.')
+Average time for  f0040-03-u.cnf :  10.8271680832 seconds.
+Average flips for  f0040-03-u.cnf :  10000 flips.
+
+
+Parsing file:  f0040-04-s.cnf
+Solved. Variable assignment:
+[1, -2, -3, -4, -5, -6, -7, 8, -9, -10, 11, 12, -13, 14, -15, -16, -17, -18, 19, -20, -21, -22, 23, -24, 25, 26, -27, -28, -29, 30, -31, -32, 33, -34, -35, 36, 37, 38, -39, 40]
+('Execution time: ', 1.0935189723968506, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, -4, 5, -6, -7, 8, 9, -10, 11, 12, -13, 14, -15, 16, -17, -18, 19, -20, -21, -22, 23, 24, 25, 26, -27, -28, -29, 30, -31, -32, 33, -34, -35, 36, 37, 38, 39, 40]
+('Execution time: ', 2.1603801250457764, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, -4, -5, -6, -7, 8, -9, -10, 11, 12, -13, 14, -15, -16, -17, -18, 19, -20, -21, -22, 23, -24, 25, 26, -27, -28, -29, 30, -31, -32, 33, -34, -35, 36, 37, 38, -39, -40]
+('Execution time: ', 2.82085919380188, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, -4, 5, -6, -7, 8, -9, -10, 11, 12, -13, 14, -15, -16, -17, -18, 19, -20, -21, -22, 23, 24, 25, 26, -27, -28, -29, 30, -31, -32, 33, -34, -35, 36, 37, 38, 39, 40]
+('Execution time: ', 0.4033169746398926, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, -4, 5, -6, -7, 8, -9, -10, 11, 12, -13, 14, -15, 16, -17, -18, 19, -20, -21, -22, 23, 24, 25, 26, -27, -28, -29, 30, -31, -32, 33, -34, -35, 36, 37, 38, 39, 40]
+('Execution time: ', 1.6181049346923828, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.800426959991455, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 11.048670053482056, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, -4, -5, -6, -7, 8, 9, -10, 11, 12, -13, 14, -15, -16, -17, -18, 19, -20, -21, -22, 23, -24, 25, 26, -27, -28, -29, 30, -31, -32, 33, -34, -35, 36, 37, 38, -39, 40]
+('Execution time: ', 5.349865913391113, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, -4, 5, -6, -7, 8, -9, -10, 11, 12, -13, 14, -15, -16, -17, -18, 19, -20, -21, -22, 23, 24, 25, 26, -27, -28, -29, 30, -31, -32, 33, -34, -35, 36, 37, 38, -39, 40]
+('Execution time: ', 5.529261827468872, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, -4, 5, -6, -7, 8, -9, -10, 11, -12, -13, 14, -15, 16, -17, -18, 19, -20, -21, -22, 23, 24, 25, 26, -27, -28, -29, 30, -31, 32, 33, -34, -35, 36, 37, 38, 39, 40]
+('Execution time: ', 0.8554761409759521, ' seconds.')
+Average time for  f0040-04-s.cnf :  4.16798810959 seconds.
+Average flips for  f0040-04-s.cnf :  3826 flips.
+
+
+Parsing file:  f0040-04-u.cnf
+Max number of flips reached, no solution found.
+('Execution time: ', 10.94194507598877, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 11.116359949111938, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.894795179367065, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.806746006011963, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.904069185256958, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.756197929382324, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.647700071334839, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.93812108039856, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.96937894821167, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.743847846984863, ' seconds.')
+Average time for  f0040-04-u.cnf :  10.8719161272 seconds.
+Average flips for  f0040-04-u.cnf :  10000 flips.
+
+
+Parsing file:  f0040-05-s.cnf
+Solved. Variable assignment:
+[-1, -2, -3, -4, 5, -6, -7, 8, 9, 10, -11, -12, 13, -14, -15, -16, 17, 18, 19, -20, 21, 22, -23, 24, -25, -26, -27, -28, -29, -30, -31, -32, -33, -34, -35, -36, 37, -38, 39, -40]
+('Execution time: ', 7.846994876861572, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.68929409980774, ' seconds.')
+Solved. Variable assignment:
+[-1, 2, -3, -4, 5, -6, -7, 8, 9, -10, -11, -12, 13, -14, -15, 16, -17, -18, -19, -20, 21, 22, -23, 24, -25, -26, 27, -28, 29, -30, 31, -32, -33, -34, -35, -36, -37, -38, 39, 40]
+('Execution time: ', 4.100564002990723, ' seconds.')
+Solved. Variable assignment:
+[-1, 2, -3, -4, 5, -6, -7, 8, 9, -10, -11, -12, 13, -14, -15, 16, -17, -18, -19, -20, 21, 22, -23, 24, -25, -26, 27, -28, 29, -30, 31, -32, -33, -34, -35, -36, -37, -38, 39, -40]
+('Execution time: ', 6.976006984710693, ' seconds.')
+Solved. Variable assignment:
+[-1, -2, -3, -4, 5, -6, -7, 8, 9, 10, -11, -12, 13, -14, -15, -16, 17, 18, 19, -20, 21, 22, -23, 24, -25, -26, 27, -28, -29, -30, -31, -32, -33, -34, -35, -36, 37, -38, 39, -40]
+('Execution time: ', 4.196392059326172, ' seconds.')
+Solved. Variable assignment:
+[-1, 2, -3, -4, 5, -6, -7, 8, 9, -10, -11, 12, 13, -14, -15, 16, -17, 18, 19, -20, 21, -22, -23, -24, -25, -26, 27, -28, 29, -30, 31, -32, -33, -34, -35, -36, -37, -38, 39, -40]
+('Execution time: ', 2.4367430210113525, ' seconds.')
+Solved. Variable assignment:
+[-1, -2, -3, -4, 5, -6, -7, 8, 9, 10, -11, -12, 13, -14, -15, -16, 17, 18, 19, -20, 21, 22, -23, 24, -25, -26, -27, -28, -29, -30, -31, -32, -33, -34, -35, 36, 37, -38, 39, -40]
+('Execution time: ', 6.669408082962036, ' seconds.')
+Solved. Variable assignment:
+[-1, -2, -3, -4, 5, -6, -7, 8, 9, 10, -11, -12, 13, -14, -15, -16, 17, 18, 19, -20, 21, 22, -23, 24, -25, -26, -27, -28, -29, -30, -31, -32, -33, -34, -35, -36, 37, -38, 39, -40]
+('Execution time: ', 3.5589189529418945, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.554907083511353, ' seconds.')
+Solved. Variable assignment:
+[-1, 2, -3, -4, 5, -6, -7, 8, 9, -10, -11, -12, 13, -14, -15, 16, -17, 18, 19, -20, 21, 22, -23, 24, -25, -26, 27, -28, 29, -30, 31, -32, -33, -34, -35, -36, -37, -38, 39, -40]
+('Execution time: ', 1.6001460552215576, ' seconds.')
+Average time for  f0040-05-s.cnf :  5.86293752193 seconds.
+Average flips for  f0040-05-s.cnf :  5494 flips.
+
+
+Parsing file:  f0040-05-u.cnf
+Max number of flips reached, no solution found.
+('Execution time: ', 10.833204984664917, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.966567993164062, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.924789190292358, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.740662097930908, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.712361097335815, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.632209062576294, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.906044960021973, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.767030000686646, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.746826887130737, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.866404056549072, ' seconds.')
+Average time for  f0040-05-u.cnf :  10.809610033 seconds.
+Average flips for  f0040-05-u.cnf :  10000 flips.
+
+
+Parsing file:  f0040-06-s.cnf
+Max number of flips reached, no solution found.
+('Execution time: ', 10.62457799911499, ' seconds.')
+Solved. Variable assignment:
+[1, 2, 3, -4, -5, 6, 7, -8, 9, -10, 11, -12, 13, 14, -15, 16, 17, 18, 19, 20, -21, -22, -23, 24, 25, 26, -27, -28, 29, 30, 31, 32, 33, -34, -35, -36, 37, -38, 39, -40]
+('Execution time: ', 1.6705338954925537, ' seconds.')
+Solved. Variable assignment:
+[-1, 2, 3, -4, 5, 6, 7, -8, 9, -10, 11, -12, 13, 14, -15, 16, 17, 18, 19, 20, -21, -22, -23, 24, 25, 26, -27, 28, 29, 30, 31, 32, 33, -34, -35, -36, 37, -38, 39, -40]
+('Execution time: ', 5.810617208480835, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.65762710571289, ' seconds.')
+Solved. Variable assignment:
+[1, 2, 3, -4, 5, 6, 7, -8, 9, -10, 11, -12, 13, 14, -15, 16, 17, 18, 19, 20, -21, 22, -23, 24, 25, 26, -27, -28, 29, 30, -31, 32, 33, -34, -35, -36, 37, -38, 39, -40]
+('Execution time: ', 5.173688888549805, ' seconds.')
+Solved. Variable assignment:
+[1, 2, 3, -4, 5, 6, 7, -8, 9, -10, 11, -12, 13, 14, -15, 16, 17, 18, 19, 20, -21, -22, -23, 24, 25, 26, -27, -28, 29, 30, -31, 32, 33, -34, -35, -36, 37, -38, 39, -40]
+('Execution time: ', 2.1299428939819336, ' seconds.')
+Solved. Variable assignment:
+[-1, 2, 3, -4, -5, 6, 7, -8, 9, -10, 11, -12, 13, 14, -15, 16, 17, 18, 19, 20, -21, 22, -23, 24, 25, 26, -27, 28, 29, -30, 31, 32, 33, -34, -35, -36, 37, 38, 39, -40]
+('Execution time: ', 2.2607150077819824, ' seconds.')
+Solved. Variable assignment:
+[-1, 2, 3, -4, -5, 6, 7, -8, 9, -10, 11, -12, 13, 14, -15, 16, -17, -18, 19, 20, -21, -22, -23, 24, 25, 26, -27, -28, 29, 30, -31, 32, 33, -34, -35, -36, 37, -38, 39, -40]
+('Execution time: ', 7.653977155685425, ' seconds.')
+Solved. Variable assignment:
+[1, 2, 3, -4, -5, 6, 7, -8, 9, -10, 11, -12, 13, 14, -15, 16, 17, 18, 19, -20, -21, -22, -23, 24, 25, 26, -27, -28, 29, 30, 31, 32, 33, 34, -35, -36, 37, -38, 39, -40]
+('Execution time: ', 9.269576072692871, ' seconds.')
+Solved. Variable assignment:
+[-1, 2, 3, -4, 5, 6, 7, 8, 9, -10, 11, -12, 13, 14, -15, 16, 17, 18, 19, 20, -21, 22, -23, 24, 25, 26, -27, -28, 29, 30, 31, 32, 33, -34, -35, -36, 37, -38, 39, -40]
+('Execution time: ', 4.785851001739502, ' seconds.')
+Average time for  f0040-06-s.cnf :  6.00371072292 seconds.
+Average flips for  f0040-06-s.cnf :  5599 flips.
+
+
+Parsing file:  f0040-06-u.cnf
+Max number of flips reached, no solution found.
+('Execution time: ', 10.867703914642334, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.746466159820557, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.69157099723816, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.790273904800415, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.682469129562378, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.75467586517334, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.455204010009766, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.702720880508423, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.76212215423584, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.82558298110962, ' seconds.')
+Average time for  f0040-06-u.cnf :  10.7278789997 seconds.
+Average flips for  f0040-06-u.cnf :  10000 flips.
+
+
+Parsing file:  f0040-07-s.cnf
+Max number of flips reached, no solution found.
+('Execution time: ', 10.664793014526367, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.80151891708374, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.7288179397583, ' seconds.')
+Solved. Variable assignment:
+[1, -2, 3, -4, -5, 6, -7, -8, -9, -10, 11, -12, 13, -14, 15, -16, 17, 18, -19, -20, 21, -22, -23, -24, 25, -26, 27, -28, 29, -30, -31, -32, -33, 34, 35, -36, 37, -38, -39, 40]
+('Execution time: ', 1.3750531673431396, ' seconds.')
+Solved. Variable assignment:
+[1, -2, 3, -4, 5, 6, -7, 8, -9, -10, 11, 12, 13, -14, 15, -16, -17, 18, -19, -20, 21, -22, -23, -24, 25, -26, 27, -28, 29, -30, 31, 32, -33, 34, 35, 36, 37, -38, 39, -40]
+('Execution time: ', 3.3871240615844727, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.882118940353394, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.793458938598633, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.688722133636475, ' seconds.')
+Solved. Variable assignment:
+[1, -2, -3, 4, 5, 6, -7, 8, -9, -10, 11, 12, 13, -14, 15, -16, -17, 18, -19, -20, 21, -22, -23, -24, 25, -26, 27, -28, 29, -30, 31, 32, -33, 34, 35, 36, 37, -38, -39, 40]
+('Execution time: ', 9.845640897750854, ' seconds.')
+Solved. Variable assignment:
+[1, -2, 3, -4, 5, 6, -7, 8, -9, -10, 11, 12, 13, -14, 15, -16, -17, 18, -19, -20, 21, -22, -23, -24, 25, -26, 27, -28, 29, -30, 31, 32, -33, 34, 35, 36, 37, -38, 39, -40]
+('Execution time: ', 6.649607181549072, ' seconds.')
+Average time for  f0040-07-s.cnf :  8.58168551922 seconds.
+Average flips for  f0040-07-s.cnf :  7965 flips.
+
+
+Parsing file:  f0040-07-u.cnf
+Max number of flips reached, no solution found.
+('Execution time: ', 10.915190935134888, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.795624017715454, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.755542993545532, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.76636004447937, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.561321020126343, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.764779090881348, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.634820938110352, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.705457925796509, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.90316390991211, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.644701957702637, ' seconds.')
+Average time for  f0040-07-u.cnf :  10.7446962833 seconds.
+Average flips for  f0040-07-u.cnf :  10000 flips.
+
+
+Parsing file:  f0040-08-s.cnf
+Solved. Variable assignment:
+[1, 2, -3, 4, 5, 6, -7, 8, -9, 10, 11, 12, -13, -14, -15, -16, 17, 18, -19, -20, -21, 22, 23, -24, -25, 26, -27, 28, 29, -30, 31, 32, 33, 34, 35, 36, -37, -38, 39, -40]
+('Execution time: ', 8.98866891860962, ' seconds.')
+Solved. Variable assignment:
+[-1, 2, -3, 4, 5, 6, -7, 8, 9, -10, 11, 12, 13, -14, -15, -16, -17, -18, 19, -20, 21, -22, -23, 24, -25, -26, -27, -28, 29, -30, -31, 32, 33, -34, 35, 36, 37, -38, 39, -40]
+('Execution time: ', 10.003123998641968, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.677309036254883, ' seconds.')
+Solved. Variable assignment:
+[-1, 2, -3, 4, 5, 6, -7, 8, 9, -10, 11, 12, 13, -14, -15, -16, -17, -18, 19, -20, 21, -22, -23, 24, -25, -26, -27, -28, 29, -30, -31, -32, 33, -34, 35, 36, 37, -38, 39, -40]
+('Execution time: ', 4.503891944885254, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.944453954696655, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.729347944259644, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, 4, -5, 6, -7, 8, -9, 10, 11, 12, -13, -14, -15, -16, 17, 18, -19, -20, -21, 22, 23, -24, -25, 26, 27, 28, -29, -30, 31, 32, 33, 34, 35, 36, -37, -38, 39, -40]
+('Execution time: ', 9.489956140518188, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, 4, 5, 6, -7, 8, -9, 10, 11, 12, -13, -14, -15, -16, 17, 18, -19, -20, -21, 22, 23, -24, -25, 26, -27, 28, 29, -30, 31, 32, 33, 34, 35, 36, -37, -38, -39, -40]
+('Execution time: ', 10.761950016021729, ' seconds.')
+Solved. Variable assignment:
+[-1, 2, -3, 4, 5, 6, -7, 8, 9, -10, 11, 12, 13, -14, -15, -16, -17, -18, 19, -20, 21, -22, -23, 24, -25, -26, -27, -28, 29, -30, -31, 32, 33, -34, 35, 36, 37, -38, 39, -40]
+('Execution time: ', 10.508928060531616, ' seconds.')
+Solved. Variable assignment:
+[1, 2, -3, 4, 5, 6, -7, 8, -9, 10, 11, 12, -13, -14, -15, -16, 17, 18, -19, 20, -21, 22, 23, -24, -25, 26, -27, 28, 29, -30, 31, 32, 33, 34, 35, 36, -37, 38, 39, -40]
+('Execution time: ', 5.72152304649353, ' seconds.')
+Average time for  f0040-08-s.cnf :  9.23291530609 seconds.
+Average flips for  f0040-08-s.cnf :  8517 flips.
+
+
+Parsing file:  f0040-08-u.cnf
+Max number of flips reached, no solution found.
+('Execution time: ', 10.615174055099487, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.748018026351929, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.84603500366211, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 11.019840002059937, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.803401947021484, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.819430112838745, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.864123821258545, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.88833999633789, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.752398014068604, ' seconds.')
+Max number of flips reached, no solution found.
+('Execution time: ', 10.799190998077393, ' seconds.')
+Average time for  f0040-08-u.cnf :  10.8155951977 seconds.
+Average flips for  f0040-08-u.cnf :  10000 flips.
+
+
+
+
+
+Testing GeneticSat...
+
+
+Parsing file:  f0020-01-s.cnf
+Solved. Variable assignment:
+[1, -2, -3, 4, -5, -6, 7, -8, -9, -10, 11, -12, 13, -14, 15, 16, -17, -18, -19, -20]
+Flips:  20  flips.
+Execution time:  3.00726699829  seconds.
+Solved. Variable assignment:
+[1, -2, -3, 4, -5, -6, 7, -8, -9, -10, 11, 12, -13, -14, 15, 16, -17, -18, 19, 20]
+Flips:  21  flips.
+Execution time:  3.05002403259  seconds.
+Solved. Variable assignment:
+[1, -2, -3, 4, -5, -6, 7, -8, -9, -10, 11, 12, -13, -14, 15, 16, -17, -18, 19, 20]
+Flips:  37  flips.
+Execution time:  5.34817910194  seconds.
+Solved. Variable assignment:
+[1, -2, 3, 4, -5, -6, 7, -8, -9, -10, 11, 12, -13, -14, 15, 16, -17, -18, 19, 20]
+Flips:  47  flips.
+Execution time:  6.84671998024  seconds.
+Solved. Variable assignment:
+[1, -2, -3, 4, -5, -6, 7, -8, -9, -10, -11, 12, -13, -14, 15, 16, -17, -18, 19, 20]
+Flips:  15  flips.
+Execution time:  2.22650098801  seconds.
+Solved. Variable assignment:
+[1, -2, -3, 4, -5, -6, 7, -8, -9, -10, -11, 12, -13, -14, 15, 16, -17, -18, 19, 20]
+Flips:  65  flips.
+Execution time:  9.41864204407  seconds.
+Solved. Variable assignment:
+[1, -2, 3, 4, -5, -6, 7, -8, -9, -10, 11, 12, -13, -14, 15, 16, -17, -18, 19, 20]
+Flips:  7  flips.
+Execution time:  1.02332377434  seconds.
+Solved. Variable assignment:
+[1, -2, 3, 4, -5, -6, 7, -8, -9, -10, -11, 12, -13, -14, 15, 16, -17, -18, 19, 20]
+Flips:  39  flips.
+Execution time:  5.70787096024  seconds.
+Solved. Variable assignment:
+[1, -2, -3, 4, -5, -6, 7, -8, -9, -10, 11, 12, -13, -14, 15, 16, -17, -18, 19, 20]
+Flips:  21  flips.
+Execution time:  3.07446479797  seconds.
+Solved. Variable assignment:
+[1, -2, -3, 4, -5, -6, 7, -8, -9, -10, 11, 12, -13, -14, 15, 16, -17, -18, 19, 20]
+Flips:  7  flips.
+Execution time:  1.02440810204  seconds.
+Average time for  f0020-01-s.cnf :  4.07274007797 seconds.
+Average flips for  f0020-01-s.cnf :  27 flips.
+
+Parsing file:  f0020-01-u.cnf
+Max number of flips reached, no solution found.
+Execution time:  17.3741600513  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.3221449852  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.4098720551  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.4441890717  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.189440012  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.3405339718  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.3539528847  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.2604320049  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.3885610104  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.3928470612  seconds.
+Average time for  f0020-01-u.cnf :  17.3476133108 seconds.
+Average flips for  f0020-01-u.cnf :  120 flips.
+
+Parsing file:  f0020-02-s.cnf
+Solved. Variable assignment:
+[1, 2, 3, 4, 5, -6, 7, -8, 9, 10, -11, -12, -13, 14, 15, -16, 17, 18, 19, -20]
+Flips:  0  flips.
+Execution time:  0.00632905960083  seconds.
+Solved. Variable assignment:
+[-1, 2, 3, 4, 5, -6, 7, 8, 9, -10, -11, -12, 13, 14, -15, -16, -17, 18, 19, -20]
+Flips:  9  flips.
+Execution time:  1.31488990784  seconds.
+Solved. Variable assignment:
+[1, -2, 3, 4, 5, 6, 7, -8, 9, 10, -11, -12, -13, -14, -15, -16, 17, 18, 19, -20]
+Flips:  3  flips.
+Execution time:  0.445533037186  seconds.
+Solved. Variable assignment:
+[1, -2, -3, 4, 5, -6, 7, -8, 9, 10, -11, -12, -13, -14, -15, -16, 17, 18, 19, -20]
+Flips:  4  flips.
+Execution time:  0.59521484375  seconds.
+Solved. Variable assignment:
+[-1, 2, 3, -4, 5, 6, 7, 8, 9, -10, -11, -12, 13, 14, -15, -16, -17, 18, 19, -20]
+Flips:  4  flips.
+Execution time:  0.602728843689  seconds.
+Solved. Variable assignment:
+[1, -2, 3, 4, 5, 6, 7, 8, 9, -10, -11, -12, -13, -14, -15, -16, -17, 18, 19, -20]
+Flips:  2  flips.
+Execution time:  0.296975851059  seconds.
+Solved. Variable assignment:
+[1, -2, 3, 4, 5, -6, 7, -8, 9, 10, -11, -12, -13, 14, 15, 16, 17, 18, 19, 20]
+Flips:  6  flips.
+Execution time:  0.8791410923  seconds.
+Solved. Variable assignment:
+[1, 2, -3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15, -16, 17, 18, 19, -20]
+Flips:  1  flips.
+Execution time:  0.145967960358  seconds.
+Solved. Variable assignment:
+[1, 2, 3, 4, 5, 6, 7, -8, 9, 10, -11, -12, -13, -14, 15, -16, 17, 18, 19, 20]
+Flips:  7  flips.
+Execution time:  1.03436994553  seconds.
+Solved. Variable assignment:
+[1, 2, -3, 4, 5, 6, 7, -8, 9, -10, -11, -12, -13, -14, -15, -16, 17, 18, 19, -20]
+Flips:  1  flips.
+Execution time:  0.154511928558  seconds.
+Average time for  f0020-02-s.cnf :  0.547566246986 seconds.
+Average flips for  f0020-02-s.cnf :  3 flips.
+
+Parsing file:  f0020-02-u.cnf
+Max number of flips reached, no solution found.
+Execution time:  17.3873858452  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.4427609444  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.4825429916  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.4154129028  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.2426788807  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.3322520256  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.3948960304  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.3749239445  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.2499928474  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.5071868896  seconds.
+Average time for  f0020-02-u.cnf :  17.3830033302 seconds.
+Average flips for  f0020-02-u.cnf :  120 flips.
+
+Parsing file:  f0020-03-s.cnf
+Solved. Variable assignment:
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15, 16, -17, -18, 19, -20]
+Flips:  3  flips.
+Execution time:  0.448539972305  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.5832901001  seconds.
+Solved. Variable assignment:
+[-1, 2, 3, -4, 5, 6, 7, -8, -9, 10, 11, 12, -13, -14, -15, 16, -17, -18, -19, -20]
+Flips:  9  flips.
+Execution time:  1.30139493942  seconds.
+Solved. Variable assignment:
+[-1, 2, 3, -4, 5, 6, -7, -8, 9, 10, 11, 12, -13, -14, -15, 16, -17, -18, -19, 20]
+Flips:  3  flips.
+Execution time:  0.442326068878  seconds.
+Solved. Variable assignment:
+[-1, 2, 3, -4, 5, 6, 7, -8, 9, 10, 11, 12, -13, -14, -15, 16, -17, -18, -19, -20]
+Flips:  8  flips.
+Execution time:  1.15077710152  seconds.
+Solved. Variable assignment:
+[-1, 2, 3, -4, 5, 6, 7, -8, -9, 10, 11, 12, 13, -14, -15, 16, -17, -18, 19, -20]
+Flips:  86  flips.
+Execution time:  12.4950041771  seconds.
+Solved. Variable assignment:
+[-1, 2, 3, -4, 5, 6, 7, -8, 9, 10, 11, 12, 13, -14, -15, 16, -17, -18, -19, -20]
+Flips:  5  flips.
+Execution time:  0.749300956726  seconds.
+Solved. Variable assignment:
+[-1, 2, 3, -4, 5, 6, 7, -8, 9, 10, 11, 12, -13, -14, -15, 16, -17, -18, -19, -20]
+Flips:  15  flips.
+Execution time:  2.21040606499  seconds.
+Solved. Variable assignment:
+[-1, 2, 3, -4, 5, 6, 7, -8, -9, 10, 11, 12, -13, -14, -15, 16, -17, -18, -19, -20]
+Flips:  55  flips.
+Execution time:  8.11435985565  seconds.
+Solved. Variable assignment:
+[-1, 2, 3, -4, 5, 6, 7, -8, 9, 10, 11, 12, 13, -14, -15, 16, -17, -18, -19, -20]
+Flips:  16  flips.
+Execution time:  2.33104801178  seconds.
+Average time for  f0020-03-s.cnf :  4.68264472485 seconds.
+Average flips for  f0020-03-s.cnf :  32 flips.
+
+Parsing file:  f0020-03-u.cnf
+Max number of flips reached, no solution found.
+Execution time:  17.5054450035  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.5217251778  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.4806408882  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.4890801907  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.581923008  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.7395238876  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.6581270695  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.6804878712  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.6356911659  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.6301848888  seconds.
+Average time for  f0020-03-u.cnf :  17.5922829151 seconds.
+Average flips for  f0020-03-u.cnf :  120 flips.
+
+Parsing file:  f0020-04-s.cnf
+Solved. Variable assignment:
+[1, -2, -3, -4, -5, -6, -7, -8, 9, 10, -11, -12, -13, -14, -15, -16, -17, 18, 19, -20]
+Flips:  5  flips.
+Execution time:  0.736940145493  seconds.
+Solved. Variable assignment:
+[1, -2, -3, 4, -5, -6, -7, -8, 9, 10, 11, -12, -13, -14, -15, -16, -17, 18, 19, 20]
+Flips:  21  flips.
+Execution time:  3.07114601135  seconds.
+Solved. Variable assignment:
+[1, -2, -3, 4, -5, -6, -7, -8, -9, 10, 11, -12, -13, -14, -15, -16, -17, 18, 19, 20]
+Flips:  17  flips.
+Execution time:  2.462651968  seconds.
+Solved. Variable assignment:
+[1, -2, -3, -4, -5, -6, -7, -8, 9, 10, -11, -12, -13, -14, -15, -16, -17, 18, 19, -20]
+Flips:  101  flips.
+Execution time:  14.7658240795  seconds.
+Solved. Variable assignment:
+[1, -2, -3, -4, -5, -6, -7, -8, 9, 10, 11, -12, -13, -14, -15, -16, -17, 18, 19, 20]
+Flips:  25  flips.
+Execution time:  3.64262199402  seconds.
+Solved. Variable assignment:
+[1, -2, -3, 4, -5, -6, -7, -8, 9, 10, 11, -12, -13, -14, -15, -16, -17, 18, 19, 20]
+Flips:  9  flips.
+Execution time:  1.29958701134  seconds.
+Solved. Variable assignment:
+[1, -2, -3, -4, -5, -6, -7, -8, 9, 10, -11, -12, -13, -14, -15, -16, -17, 18, 19, -20]
+Flips:  40  flips.
+Execution time:  5.79064702988  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.5164959431  seconds.
+Solved. Variable assignment:
+[1, -2, -3, 4, -5, -6, -7, -8, 9, 10, 11, -12, -13, -14, -15, -16, -17, 18, 19, 20]
+Flips:  99  flips.
+Execution time:  14.6286048889  seconds.
+Solved. Variable assignment:
+[1, -2, -3, -4, -5, -6, -7, -8, 9, 10, 11, -12, -13, -14, -15, -16, -17, 18, 19, 20]
+Flips:  13  flips.
+Execution time:  1.90349888802  seconds.
+Average time for  f0020-04-s.cnf :  6.58180179596 seconds.
+Average flips for  f0020-04-s.cnf :  45 flips.
+
+Parsing file:  f0020-04-u.cnf
+Max number of flips reached, no solution found.
+Execution time:  17.6859579086  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.7962620258  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.5067520142  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.5536379814  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.4276530743  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.6250419617  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.5866241455  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.5250101089  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.3749809265  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.38484478  seconds.
+Average time for  f0020-04-u.cnf :  17.5466764927 seconds.
+Average flips for  f0020-04-u.cnf :  120 flips.
+
+Parsing file:  f0020-05-s.cnf
+Solved. Variable assignment:
+[-1, -2, -3, -4, -5, 6, -7, -8, -9, 10, 11, -12, -13, 14, -15, -16, -17, -18, -19, 20]
+Flips:  7  flips.
+Execution time:  1.01133298874  seconds.
+Solved. Variable assignment:
+[-1, -2, -3, -4, -5, 6, -7, -8, -9, 10, 11, -12, -13, 14, -15, -16, -17, -18, -19, 20]
+Flips:  7  flips.
+Execution time:  1.01621294022  seconds.
+Solved. Variable assignment:
+[1, 2, -3, -4, -5, -6, -7, -8, 9, 10, 11, -12, -13, 14, -15, 16, 17, 18, -19, 20]
+Flips:  29  flips.
+Execution time:  4.16155791283  seconds.
+Solved. Variable assignment:
+[1, 2, -3, -4, -5, -6, -7, -8, -9, -10, 11, -12, -13, 14, 15, 16, 17, 18, -19, 20]
+Flips:  1  flips.
+Execution time:  0.155016899109  seconds.
+Solved. Variable assignment:
+[1, 2, 3, -4, -5, -6, -7, -8, -9, -10, 11, -12, -13, 14, 15, -16, 17, 18, -19, 20]
+Flips:  3  flips.
+Execution time:  0.445179224014  seconds.
+Solved. Variable assignment:
+[1, 2, 3, -4, -5, -6, -7, -8, -9, -10, 11, -12, -13, 14, -15, -16, 17, 18, -19, 20]
+Flips:  48  flips.
+Execution time:  6.94174909592  seconds.
+Solved. Variable assignment:
+[1, 2, 3, -4, -5, -6, -7, -8, 9, -10, 11, -12, -13, 14, 15, -16, 17, 18, 19, 20]
+Flips:  22  flips.
+Execution time:  3.17892003059  seconds.
+Solved. Variable assignment:
+[1, 2, -3, -4, -5, -6, -7, -8, 9, -10, 11, -12, -13, 14, -15, 16, 17, 18, -19, 20]
+Flips:  13  flips.
+Execution time:  1.88672113419  seconds.
+Solved. Variable assignment:
+[1, 2, -3, -4, -5, -6, -7, -8, 9, 10, 11, -12, -13, 14, -15, 16, 17, 18, 19, 20]
+Flips:  7  flips.
+Execution time:  1.01864385605  seconds.
+Solved. Variable assignment:
+[1, 2, 3, -4, -5, -6, -7, -8, 9, -10, 11, -12, -13, 14, 15, 16, 17, 18, 19, 20]
+Flips:  4  flips.
+Execution time:  0.577706098557  seconds.
+Average time for  f0020-05-s.cnf :  2.03930401802 seconds.
+Average flips for  f0020-05-s.cnf :  14 flips.
+
+Parsing file:  f0020-05-u.cnf
+Max number of flips reached, no solution found.
+Execution time:  17.3616540432  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.3096630573  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.2113790512  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.3542668819  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.328963995  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.5560400486  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.2666320801  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.1710870266  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.3214900494  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.3306150436  seconds.
+Average time for  f0020-05-u.cnf :  17.3211791277 seconds.
+Average flips for  f0020-05-u.cnf :  120 flips.
+
+Parsing file:  f0020-06-s.cnf
+Solved. Variable assignment:
+[1, 2, -3, -4, -5, 6, -7, 8, -9, 10, 11, -12, -13, -14, 15, 16, 17, 18, -19, 20]
+Flips:  107  flips.
+Execution time:  15.5246489048  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.4989390373  seconds.
+Solved. Variable assignment:
+[1, 2, -3, -4, -5, 6, 7, 8, -9, 10, 11, -12, -13, -14, 15, 16, 17, 18, -19, 20]
+Flips:  103  flips.
+Execution time:  14.9831979275  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.5844199657  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.2248511314  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.3738629818  seconds.
+Solved. Variable assignment:
+[1, 2, -3, -4, -5, 6, -7, 8, -9, 10, 11, -12, -13, -14, 15, 16, 17, 18, -19, 20]
+Flips:  65  flips.
+Execution time:  9.50523877144  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.4526190758  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.6310889721  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.4335229397  seconds.
+Average time for  f0020-06-s.cnf :  16.2212389708 seconds.
+Average flips for  f0020-06-s.cnf :  111 flips.
+
+Parsing file:  f0020-06-u.cnf
+Max number of flips reached, no solution found.
+Execution time:  17.5157189369  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.5084679127  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.5489909649  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.3282411098  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.4732351303  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.5075950623  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.3793568611  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.4307689667  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.3835608959  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.3420441151  seconds.
+Average time for  f0020-06-u.cnf :  17.4417979956 seconds.
+Average flips for  f0020-06-u.cnf :  120 flips.
+
+Parsing file:  f0020-07-s.cnf
+Solved. Variable assignment:
+[-1, -2, 3, -4, -5, 6, -7, -8, 9, 10, 11, -12, -13, -14, 15, -16, -17, -18, -19, 20]
+Flips:  11  flips.
+Execution time:  1.5936498642  seconds.
+Solved. Variable assignment:
+[-1, -2, 3, -4, -5, 6, -7, -8, 9, 10, 11, -12, -13, -14, 15, -16, -17, -18, -19, 20]
+Flips:  10  flips.
+Execution time:  1.44919419289  seconds.
+Solved. Variable assignment:
+[-1, 2, 3, -4, 5, 6, -7, 8, 9, -10, 11, 12, -13, -14, 15, -16, -17, 18, 19, -20]
+Flips:  3  flips.
+Execution time:  0.435127019882  seconds.
+Solved. Variable assignment:
+[-1, 2, 3, -4, 5, 6, -7, 8, 9, -10, 11, 12, -13, -14, 15, -16, -17, -18, 19, -20]
+Flips:  10  flips.
+Execution time:  1.46020293236  seconds.
+Solved. Variable assignment:
+[1, -2, 3, -4, -5, 6, -7, -8, 9, -10, 11, -12, -13, -14, 15, -16, 17, -18, -19, -20]
+Flips:  1  flips.
+Execution time:  0.15000295639  seconds.
+Solved. Variable assignment:
+[-1, -2, 3, -4, 5, 6, -7, 8, 9, -10, 11, -12, -13, -14, 15, -16, -17, -18, 19, 20]
+Flips:  17  flips.
+Execution time:  2.49100399017  seconds.
+Solved. Variable assignment:
+[1, 2, 3, -4, 5, 6, -7, 8, 9, -10, 11, 12, -13, -14, 15, -16, -17, -18, 19, -20]
+Flips:  19  flips.
+Execution time:  2.78255295753  seconds.
+Solved. Variable assignment:
+[-1, -2, 3, -4, 5, -6, -7, 8, 9, -10, 11, -12, -13, -14, 15, -16, -17, -18, -19, 20]
+Flips:  4  flips.
+Execution time:  0.586788892746  seconds.
+Solved. Variable assignment:
+[-1, 2, 3, -4, 5, 6, -7, 8, 9, -10, 11, 12, -13, -14, 15, -16, -17, 18, 19, -20]
+Flips:  11  flips.
+Execution time:  1.59272098541  seconds.
+Solved. Variable assignment:
+[-1, -2, 3, -4, -5, 6, -7, -8, 9, 10, 11, -12, -13, -14, 15, -16, 17, -18, -19, 20]
+Flips:  5  flips.
+Execution time:  0.736997127533  seconds.
+Average time for  f0020-07-s.cnf :  1.32782409191 seconds.
+Average flips for  f0020-07-s.cnf :  9 flips.
+
+Parsing file:  f0020-07-u.cnf
+Max number of flips reached, no solution found.
+Execution time:  17.2087318897  seconds.
+Max number of flips reached, no solution found.
+Execution time:  16.9852170944  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.0015909672  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.1515541077  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.1762700081  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.4386959076  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.1811790466  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.4334919453  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.2893381119  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.2158031464  seconds.
+Average time for  f0020-07-u.cnf :  17.2081872225 seconds.
+Average flips for  f0020-07-u.cnf :  120 flips.
+
+Parsing file:  f0020-08-s.cnf
+Solved. Variable assignment:
+[1, 2, -3, 4, -5, -6, -7, 8, 9, 10, -11, 12, -13, -14, -15, 16, 17, -18, -19, 20]
+Flips:  11  flips.
+Execution time:  1.56462907791  seconds.
+Solved. Variable assignment:
+[1, 2, -3, 4, -5, -6, -7, 8, 9, 10, -11, 12, -13, -14, -15, 16, 17, -18, -19, 20]
+Flips:  46  flips.
+Execution time:  6.56390309334  seconds.
+Solved. Variable assignment:
+[1, 2, -3, 4, -5, -6, -7, 8, 9, 10, -11, 12, 13, -14, -15, 16, 17, -18, -19, 20]
+Flips:  7  flips.
+Execution time:  1.01874899864  seconds.
+Solved. Variable assignment:
+[1, 2, -3, 4, -5, -6, -7, 8, 9, 10, -11, 12, -13, -14, -15, 16, 17, -18, -19, 20]
+Flips:  12  flips.
+Execution time:  1.71888184547  seconds.
+Solved. Variable assignment:
+[1, 2, -3, 4, -5, -6, -7, 8, 9, 10, 11, 12, 13, -14, -15, 16, 17, -18, -19, 20]
+Flips:  16  flips.
+Execution time:  2.33296489716  seconds.
+Solved. Variable assignment:
+[-1, 2, -3, 4, -5, -6, -7, 8, 9, 10, -11, 12, 13, 14, -15, 16, 17, -18, -19, 20]
+Flips:  8  flips.
+Execution time:  1.16284108162  seconds.
+Solved. Variable assignment:
+[-1, 2, -3, 4, -5, -6, -7, 8, 9, 10, -11, 12, 13, 14, -15, 16, 17, -18, -19, 20]
+Flips:  43  flips.
+Execution time:  6.17541384697  seconds.
+Solved. Variable assignment:
+[1, 2, -3, 4, -5, -6, -7, 8, 9, 10, 11, 12, 13, -14, -15, 16, 17, -18, -19, 20]
+Flips:  19  flips.
+Execution time:  2.75387716293  seconds.
+Solved. Variable assignment:
+[-1, 2, -3, 4, -5, -6, -7, 8, 9, 10, -11, 12, 13, 14, -15, 16, 17, -18, -19, 20]
+Flips:  6  flips.
+Execution time:  0.869593143463  seconds.
+Solved. Variable assignment:
+[1, 2, -3, 4, -5, -6, -7, 8, 9, 10, -11, 12, -13, -14, -15, 16, 17, -18, -19, 20]
+Flips:  36  flips.
+Execution time:  5.14743995667  seconds.
+Average time for  f0020-08-s.cnf :  2.93082931042 seconds.
+Average flips for  f0020-08-s.cnf :  20 flips.
+
+Parsing file:  f0020-08-u.cnf
+Max number of flips reached, no solution found.
+Execution time:  18.0379748344  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.4106938839  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.5457520485  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.8583600521  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.6164550781  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.4136850834  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.4422500134  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.2995529175  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.632021904  seconds.
+Max number of flips reached, no solution found.
+Execution time:  17.3843781948  seconds.
+Average time for  f0020-08-u.cnf :  17.564112401 seconds.
+Average flips for  f0020-08-u.cnf :  120 flips.
+
+Parsing file:  f0040-01-s.cnf
+Max number of flips reached, no solution found.
+Execution time:  31.1140680313  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.2728121281  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.7554490566  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.9108610153  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.0179491043  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.7088441849  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6651740074  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.977298975  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6904649734  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.755562067  seconds.
+Average time for  f0040-01-s.cnf :  30.8868483543 seconds.
+Average flips for  f0040-01-s.cnf :  120 flips.
+
+Parsing file:  f0040-01-u.cnf
+Max number of flips reached, no solution found.
+Execution time:  30.9629380703  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.8690161705  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.9465758801  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.9302430153  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.1503369808  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.7866370678  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.8716409206  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.8920691013  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.8682980537  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.7162079811  seconds.
+Average time for  f0040-01-u.cnf :  30.8993963242 seconds.
+Average flips for  f0040-01-u.cnf :  120 flips.
+
+Parsing file:  f0040-02-s.cnf
+Max number of flips reached, no solution found.
+Execution time:  31.3571579456  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.016767025  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.8596301079  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.9599640369  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.4935901165  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.0310370922  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.2191970348  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.1567821503  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.022605896  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.9312369823  seconds.
+Average time for  f0040-02-s.cnf :  31.1047968388 seconds.
+Average flips for  f0040-02-s.cnf :  120 flips.
+
+Parsing file:  f0040-02-u.cnf
+Max number of flips reached, no solution found.
+Execution time:  30.8496861458  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.0722620487  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.8503348827  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.7161238194  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.1659650803  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.0327939987  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.9213759899  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.2460079193  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6302580833  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.8936810493  seconds.
+Average time for  f0040-02-u.cnf :  30.9378489017 seconds.
+Average flips for  f0040-02-u.cnf :  120 flips.
+
+Parsing file:  f0040-03-s.cnf
+Max number of flips reached, no solution found.
+Execution time:  31.051913023  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.8598840237  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.1728019714  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.0212671757  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.1089451313  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.2302520275  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.0463631153  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.32614398  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.5747859478  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6273159981  seconds.
+Average time for  f0040-03-s.cnf :  31.0019672394 seconds.
+Average flips for  f0040-03-s.cnf :  120 flips.
+
+Parsing file:  f0040-03-u.cnf
+Max number of flips reached, no solution found.
+Execution time:  31.018761158  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.2394888401  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.3045868874  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.5551841259  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.8953268528  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6629960537  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.2346131802  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6123828888  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.9315049648  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.0830559731  seconds.
+Average time for  f0040-03-u.cnf :  31.0537900925 seconds.
+Average flips for  f0040-03-u.cnf :  120 flips.
+
+Parsing file:  f0040-04-s.cnf
+Max number of flips reached, no solution found.
+Execution time:  30.9786739349  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.2581338882  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.9168798923  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.2372431755  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.3650457859  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.8485012054  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.5397119522  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.2867350578  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.8278770447  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.9449570179  seconds.
+Average time for  f0040-04-s.cnf :  31.0203758955 seconds.
+Average flips for  f0040-04-s.cnf :  120 flips.
+
+Parsing file:  f0040-04-u.cnf
+Max number of flips reached, no solution found.
+Execution time:  30.9836909771  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.7852780819  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.064855814  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.7344691753  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.9557731152  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.909817934  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.1197390556  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.7820179462  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.0954139233  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.8448019028  seconds.
+Average time for  f0040-04-u.cnf :  30.9275857925 seconds.
+Average flips for  f0040-04-u.cnf :  120 flips.
+
+Parsing file:  f0040-05-s.cnf
+Max number of flips reached, no solution found.
+Execution time:  30.8139529228  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.5930361748  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.5835850239  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.9501309395  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.8959078789  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.083781004  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6825690269  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6831150055  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.9079868793  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.7866821289  seconds.
+Average time for  f0040-05-s.cnf :  30.7980746984 seconds.
+Average flips for  f0040-05-s.cnf :  120 flips.
+
+Parsing file:  f0040-05-u.cnf
+Max number of flips reached, no solution found.
+Execution time:  31.0881280899  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.8531899452  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.9810111523  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.843724966  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.7043068409  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.0065920353  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.7339718342  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.7248511314  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.9598701  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6347770691  seconds.
+Average time for  f0040-05-u.cnf :  30.8530423164 seconds.
+Average flips for  f0040-05-u.cnf :  120 flips.
+
+Parsing file:  f0040-06-s.cnf
+Max number of flips reached, no solution found.
+Execution time:  30.4217078686  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6133389473  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.4716789722  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.92720294  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.506759882  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.1752538681  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.852465868  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.5421700478  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.4180049896  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6678228378  seconds.
+Average time for  f0040-06-s.cnf :  30.5596406221 seconds.
+Average flips for  f0040-06-s.cnf :  120 flips.
+
+Parsing file:  f0040-06-u.cnf
+Max number of flips reached, no solution found.
+Execution time:  30.6316969395  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.3918340206  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.1548578739  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6669130325  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.5762300491  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6042380333  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.4662001133  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6128571033  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.5739359856  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.7159731388  seconds.
+Average time for  f0040-06-u.cnf :  30.639473629 seconds.
+Average flips for  f0040-06-u.cnf :  120 flips.
+
+Parsing file:  f0040-07-s.cnf
+Max number of flips reached, no solution found.
+Execution time:  30.6916770935  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6130001545  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.8899848461  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.4971618652  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.869204998  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.7114050388  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.7769370079  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6468529701  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.7168951035  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6784191132  seconds.
+Average time for  f0040-07-s.cnf :  30.7091538191 seconds.
+Average flips for  f0040-07-s.cnf :  120 flips.
+
+Parsing file:  f0040-07-u.cnf
+Max number of flips reached, no solution found.
+Execution time:  30.7570869923  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.7512750626  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.7740628719  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6041808128  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.36561203  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.3858389854  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6777229309  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.672118187  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6829650402  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.8078598976  seconds.
+Average time for  f0040-07-u.cnf :  30.6478722811 seconds.
+Average flips for  f0040-07-u.cnf :  120 flips.
+
+Parsing file:  f0040-08-s.cnf
+Max number of flips reached, no solution found.
+Execution time:  30.8104448318  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.729861021  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.9269919395  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.9416429996  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.0894169807  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6210920811  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.8017039299  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6850450039  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6857581139  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.9821228981  seconds.
+Average time for  f0040-08-s.cnf :  30.82740798 seconds.
+Average flips for  f0040-08-s.cnf :  120 flips.
+
+Parsing file:  f0040-08-u.cnf
+Max number of flips reached, no solution found.
+Execution time:  30.4164009094  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6853041649  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6509940624  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.8296880722  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6221449375  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6655478477  seconds.
+Max number of flips reached, no solution found.
+Execution time:  31.0599911213  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.7470870018  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.7177619934  seconds.
+Max number of flips reached, no solution found.
+Execution time:  30.6229491234  seconds.
+Average time for  f0040-08-u.cnf :  30.7017869234 seconds.
+Average flips for  f0040-08-u.cnf :  120 flips.
+
+
